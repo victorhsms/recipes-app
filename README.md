@@ -1,8 +1,9 @@
 # Recipes App
-
-<img height="400" src="./images/mobile-home.png" alt="exemplo imagem" >
-<img height="400" src="./images/mobile-recipe.png">
-<img height="400" src="./images/mobile-drinks.png">
+<div> 
+  <img height="400" src="./images/mobile-home.png" alt="exemplo imagem" >
+  <img height="400" src="./images/mobile-recipe.png">
+  <img height="400" src="./images/mobile-drinks.png">
+</div>
 
 ## 💻 Projeto
 
