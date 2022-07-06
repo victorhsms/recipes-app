@@ -59,7 +59,7 @@ Agradeço às seguintes pessoas que fizeram esse projeto junto comigo:
   <tr>
     <td align="center">
       <a href="https://github.com/julianoboese">
-        <img src="https://avatars.githubusercontent.com/u/93009900?v=4" width="120px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="https://avatars.githubusercontent.com/u/93009900?v=4" width="120px;" alt="Foto do Juliano Boese"/><br>
         <sub>
           <b>Juliano Boese</b>
         </sub>
@@ -67,7 +67,7 @@ Agradeço às seguintes pessoas que fizeram esse projeto junto comigo:
     </td>
     <td align="center">
       <a href="https://github.com/byancaknorst">
-        <img src="https://avatars.githubusercontent.com/u/89043483?v=4" width="120px;" alt="Foto do Steve Jobs"/><br>
+        <img src="https://avatars.githubusercontent.com/u/89043483?v=4" width="120px;" alt="Foto da Byanca Knorst"/><br>
         <sub>
           <b>Byanca Knorst</b>
         </sub>
@@ -75,7 +75,7 @@ Agradeço às seguintes pessoas que fizeram esse projeto junto comigo:
     </td>
     <td align="center">
       <a href="https://github.com/brennomiliani">
-        <img src="https://avatars.githubusercontent.com/u/28967760?v=4" width="120px;" alt="Foto do Steve Jobs"/><br>
+        <img src="https://avatars.githubusercontent.com/u/28967760?v=4" width="120px;" alt="Foto do Brenno Miliani"/><br>
         <sub>
           <b>Brenno Miliani</b>
         </sub>
